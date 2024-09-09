@@ -1,0 +1,4 @@
+[Bookmarks]
+[Recent]
+C:\Projects\b0-00-body\blends\
+C:\Godot\- Models\drone\

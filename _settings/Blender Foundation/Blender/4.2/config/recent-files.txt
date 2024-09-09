@@ -1,0 +1,3 @@
+C:\Projects\b0-00-body\blends\000-blank_view.blend
+C:\Projects\b0-00-body\blends\body2.blend
+C:\Projects\b0-00-body\blends\body.blend
