@@ -2,6 +2,10 @@
    Viewer Node.002
    Astropulse.png
    Preview
-   Render Result
  0 Viewer Node
    ImphenziaPalette01-256.png
+   Render Result
+   green-light.png
+Color ▸ Mix ▸ Alpha Over
+Color ▸ Adjust ▸ Brightness/Contrast
+   Material.001
