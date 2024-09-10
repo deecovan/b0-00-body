@@ -1,5 +1,7 @@
    ImphenziaPalette02-Albedo.png
-   Render Result
    Viewer Node.002
    Astropulse.png
    Preview
+   Render Result
+ 0 Viewer Node
+   ImphenziaPalette01-256.png
