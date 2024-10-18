@@ -9,3 +9,17 @@
 Color ▸ Mix ▸ Alpha Over
 Color ▸ Adjust ▸ Brightness/Contrast
    Material.001
+Generate ▸ Decimate
+Face (Ctrl F) ▸ Intersect (Boolean)
+Select ▸ Select Similar (Shift G) ▸ Normal
+   Mountain
+Select ▸ Select Similar (Shift G) ▸ Area
+View ▸ Align View ▸ Align View to Active ▸ Back|Shift Ctrl Numpad 1
+Generate ▸ Bevel
+Generate ▸ Subdivision Surface
+Light ▸ Sun
+Add ▸ Camera
+   Texture
+   WhiteStone10.jpeg
+Mesh ▸ Cube
+3D Viewport: Select ▸ Lasso Select ▸ Intersect
