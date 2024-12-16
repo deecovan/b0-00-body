@@ -1,0 +1,1 @@
+{Intel/Intel(R) HD Graphics 520/4.6.0 - Build 31.0.101.2115}=SUPPORTED
